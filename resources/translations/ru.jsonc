@@ -1,0 +1,5 @@
+{
+  "restrictedweapons.prefix": "[[GREEN]RestrictedWeapons[DEFAULT]]",
+  "restrictedweapons.blocked": "[RED]Оружие [YELLOW]{0}[RED] ограничено на сервере! Допустимый лимит: [YELLOW]{1}[RED] шт.[DEFAULT]",
+  "restrictedweapons.blocked_team": "[RED]Оружие [YELLOW]{0}[RED] ограничено для вашей команды! Допустимый лимит: [YELLOW]{1}[RED] шт.[DEFAULT]"
+}

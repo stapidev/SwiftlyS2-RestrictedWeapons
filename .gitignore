@@ -1,0 +1,20 @@
+# Visual Studio / Build outputs
+bin/
+obj/
+build/
+publish/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# IDE / Editor folders
+.vs/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
